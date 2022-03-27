@@ -1,5 +1,5 @@
-127.0.0.1	ansible_port=2223	ansible_host=anode1
+192.168.57.5	ansible_port=2223	ansible_user=murad	ansible_host=anode1
 
-127.0.0.1	ansible_port=2224	ansible_host=anode2
+192.168.57.6	ansible_port=2224	ansible_user=murad	ansible_host=anode2
 
-127.0.0.1	ansible_port=2225	ansible_host=anode3
+192.168.57.7	ansible_port=2225	ansible_user=murad	ansible_host=anode3
