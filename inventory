@@ -1,0 +1,5 @@
+127.0.0.1	ansible_port=2223	ansible_host=anode1
+
+127.0.0.1	ansible_port=2224	ansible_host=anode2
+
+127.0.0.1	ansible_port=2225	ansible_host=anode3
